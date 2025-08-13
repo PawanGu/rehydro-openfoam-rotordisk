@@ -6,5 +6,5 @@ and simple plotting.
 
 ## Quick start
 ```bash
-cd cases/rotorDisk
+./rotor_rpm.sh
 simpleFoam > log.baseline 2>&1
