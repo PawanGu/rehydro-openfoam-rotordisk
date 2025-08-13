@@ -19,7 +19,10 @@ chmod +x rotor_rpm.sh plot_script.sh
 #    - Reads power_vs_rpm.csv
 #    - Saves power_vs_rpm.png
 ./plot_script.sh
+```
 
 ## Results
 
-![Power vs rpm](https://github.com/PawanGu/rehydro-openfoam-rotordisk/blob/main/results/power_vs_rpm.png)
+![Power vs rpm](./results/power_vs_rpm.png)
+![velocity vector along the flow, entire cycliner](./results/velocity_flow.png)
+![U magnitude on the crossection](./results/U_magnitude_view.png)
