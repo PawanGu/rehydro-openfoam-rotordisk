@@ -1,0 +1,13 @@
+U_magnitude.png: U magnitude on the crossection of middle cycliner as a function of -y to y
+U_magnitude_view.png: U magnitude on the crossection of middle cycliner at t=0
+U_magnitude_view_steady.png: U magnitude on the crossection of middle cycliner at last steady state(last simulation point)
+U_magnitude_along_flow.png: U magnitude along the flow (y-direction)
+U_magnitude_animation.ogv: Animation of U magnitude on the crossection of middle cycliner
+U_magnitude_along_flow.png: U magnitude along the flow (y-direction)
+
+p_along_flow.png: p along the flow (y-direction)
+
+These plots are created in parafoam:
+velocity_field.png: velocity vector shown along the flow
+velocity_field1.png: velocity vector shown along the flow (zoom-out)
+velocity_flow.png: velocity vector along the flow, entire cycliner 
