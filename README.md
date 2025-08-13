@@ -23,6 +23,9 @@ chmod +x rotor_rpm.sh plot_script.sh
 
 ## Results
 
+*Figure 1.* Shaft power (−Effective power) vs rpm at fixed inlet speed **U = 1 m/s**.  
 ![Power vs rpm](./results/power_vs_rpm.png)
+*Figure 2.* velocity vector along the flow, entire cycliner   
 ![velocity vector along the flow, entire cycliner](./results/velocity_flow.png)
+*Figure 3.* U magnitude on the crossection of middle cycliner
 ![U magnitude on the crossection](./results/U_magnitude_view.png)
