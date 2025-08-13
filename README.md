@@ -7,4 +7,4 @@ and simple plotting.
 ## Quick start
 ```bash
 ./rotor_rpm.sh
-simpleFoam > log.baseline 2>&1
+./plot_script.sh
