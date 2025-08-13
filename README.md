@@ -19,3 +19,7 @@ chmod +x rotor_rpm.sh plot_script.sh
 #    - Reads power_vs_rpm.csv
 #    - Saves power_vs_rpm.png
 ./plot_script.sh
+
+## Results
+
+![Power vs rpm](results/power_vs_rpm.png)
