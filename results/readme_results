@@ -6,6 +6,7 @@ U_magnitude_animation.ogv: Animation of U magnitude on the crossection of middle
 U_magnitude_along_flow.png: U magnitude along the flow (y-direction)
 
 p_along_flow.png: p along the flow (y-direction)
+power_vs_rpm.png: this shows Power as a function of rpm of rotordisk
 
 These plots are created in parafoam:
 velocity_field.png: velocity vector shown along the flow
